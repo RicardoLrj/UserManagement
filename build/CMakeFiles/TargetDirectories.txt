@@ -1,0 +1,6 @@
+E:/Work/UserManagement/build/CMakeFiles/management.dir
+E:/Work/UserManagement/build/CMakeFiles/package_source.dir
+E:/Work/UserManagement/build/CMakeFiles/UserManagement.dir
+E:/Work/UserManagement/build/CMakeFiles/package.dir
+E:/Work/UserManagement/build/CMakeFiles/edit_cache.dir
+E:/Work/UserManagement/build/CMakeFiles/rebuild_cache.dir

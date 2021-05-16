@@ -1,0 +1,3 @@
+D:\Software\cmake-3.20.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\UserManagement.dir/objects.a
+D:\Softwaremingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\UserManagement.dir/objects.a @CMakeFiles\UserManagement.dir\objects1.rsp
+D:\Softwaremingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\i686-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\UserManagement.dir/objects.a -Wl,--no-whole-archive -o UserManagement.exe -Wl,--out-implib,libUserManagement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UserManagement.dir\linklibs.rsp

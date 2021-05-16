@@ -1,0 +1,2 @@
+D:\Softwaremingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe qc libmanagement.a CMakeFiles/management.dir/Management.cpp.obj CMakeFiles/management.dir/worker.cpp.obj CMakeFiles/management.dir/employee.cpp.obj CMakeFiles/management.dir/manager.cpp.obj CMakeFiles/management.dir/boss.cpp.obj
+D:\Softwaremingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ranlib.exe libmanagement.a

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\management.dir\\Management.cpp.obj -c E:\\Work\\UserManagement\\Management.cpp",
+  "file": "E:/Work/UserManagement/Management.cpp"
+},
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\management.dir\\worker.cpp.obj -c E:\\Work\\UserManagement\\worker.cpp",
+  "file": "E:/Work/UserManagement/worker.cpp"
+},
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\management.dir\\employee.cpp.obj -c E:\\Work\\UserManagement\\employee.cpp",
+  "file": "E:/Work/UserManagement/employee.cpp"
+},
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\management.dir\\manager.cpp.obj -c E:\\Work\\UserManagement\\manager.cpp",
+  "file": "E:/Work/UserManagement/manager.cpp"
+},
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\management.dir\\boss.cpp.obj -c E:\\Work\\UserManagement\\boss.cpp",
+  "file": "E:/Work/UserManagement/boss.cpp"
+},
+{
+  "directory": "E:/Work/UserManagement/build",
+  "command": "D:\\Softwaremingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\i686-w64-mingw32-g++.exe   -g -o CMakeFiles\\UserManagement.dir\\main.cpp.obj -c E:\\Work\\UserManagement\\main.cpp",
+  "file": "E:/Work/UserManagement/main.cpp"
+}
+]
