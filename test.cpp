@@ -1,12 +1,15 @@
 #include <iostream>
+#include <fstream>
+
+#define FILENAME "log.txt"
 
 using namespace std;
 
 int main()
 {
-    int n = 2;
-    while(n--)
-    {
-        cout << n << endl;
-    }
+    ofstream ofs;
+    ofs.open(FILENAME, ios::out);
+    
+
+    return 0;
 }

@@ -6,6 +6,8 @@
 #include "manager.h"
 #include "boss.h"
 
+
+
 void test()
 {
     Worker* worker = NULL;

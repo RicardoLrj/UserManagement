@@ -128,4 +128,9 @@ CMakeFiles/management.dir/Management.cpp.obj: \
  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream \
  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
  E:\Work\UserManagement\worker.h E:\Work\UserManagement\employee.h \
- E:\Work\UserManagement\manager.h E:\Work\UserManagement\boss.h
+ E:\Work\UserManagement\manager.h E:\Work\UserManagement\boss.h \
+ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/fstream \
+ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
+ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/basic_file.h \
+ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++io.h \
+ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc
