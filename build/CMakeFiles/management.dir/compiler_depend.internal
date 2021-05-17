@@ -130,6 +130,10 @@ CMakeFiles/management.dir/Management.cpp.obj
  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc
  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream
  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc
+ E:/Work/UserManagement/worker.h
+ E:/Work/UserManagement/employee.h
+ E:/Work/UserManagement/manager.h
+ E:/Work/UserManagement/boss.h
 
 CMakeFiles/management.dir/boss.cpp.obj
  E:/Work/UserManagement/boss.cpp

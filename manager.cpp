@@ -20,4 +20,5 @@ void Manager::showInfo()
 string Manager::getDeptName()
 {
     return string("¾­Àí");
+    // return dept[this->m_Dep];
 }

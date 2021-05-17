@@ -4,6 +4,8 @@
 
 using namespace std;
 
+static string dept[3] = {"老板", "经理", "员工"};
+
 class Worker
 {
 public:
@@ -15,5 +17,5 @@ public:
     string m_Name;
     int m_ID;
     int m_Dep;
-    string dept[3] = {"老板", "经理", "员工"};
+    // string dept[3] = {"老板", "经理", "员工"};
 };

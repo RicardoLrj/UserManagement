@@ -20,4 +20,5 @@ void Boss::showInfo()
 string Boss::getDeptName()
 {
     return string("ÀÏ°å");
+    // return dept[this->m_Dep];
 }

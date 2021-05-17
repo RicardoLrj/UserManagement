@@ -128,7 +128,11 @@ CMakeFiles/management.dir/Management.cpp.obj: ../Management.cpp \
   D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_ios.tcc \
   D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
   D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream \
-  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc
+  D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
+  ../worker.h \
+  ../employee.h \
+  ../manager.h \
+  ../boss.h
 
 CMakeFiles/management.dir/boss.cpp.obj: ../boss.cpp \
   D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iostream \
@@ -906,18 +910,18 @@ D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-
 
 D:/Softwaremingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc:
 
-../boss.cpp:
-
-../boss.h:
-
 ../worker.h:
-
-../employee.cpp:
 
 ../employee.h:
 
-../manager.cpp:
-
 ../manager.h:
+
+../boss.h:
+
+../boss.cpp:
+
+../employee.cpp:
+
+../manager.cpp:
 
 ../worker.cpp:

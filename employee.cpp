@@ -20,6 +20,6 @@ void Employee::showInfo()
 
 string Employee::getDeptName()
 {
-    // return string("员工");
-     return dept[this->m_Dep];
+    return string("员工");
+    //  return dept[this->m_Dep];
 }
